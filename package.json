@@ -1,0 +1,14 @@
+{
+	"name": "@1baga/tiny",
+	"version": "2.0.0",
+	"description": "Removes Spaces",
+	"license": "MIT",
+	"repository": "1baga/tiny",
+	"main": "index.js",
+	"keywords": [
+		"tiny",
+		"npm",
+		"package",
+		"1baga"
+	]
+}
